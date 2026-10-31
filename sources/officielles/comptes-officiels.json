@@ -1,0 +1,433 @@
+{
+ "lu_le": "2026-10-31",
+ "magasins": {
+  "seven-eleven": {
+   "total": 21956,
+   "au": "2026-09-30",
+   "source": "https://www.sej.co.jp/company/tenpo.html",
+   "fichier": "sej-map_2610.gif (carte des magasins par préfecture, « 国内都道府県別店舗数（2026年9月末現在）», total « 総店舗数 21,956 店 »)",
+   "par_prefecture": {
+    "JP-01": 991,
+    "JP-02": 112,
+    "JP-03": 166,
+    "JP-04": 445,
+    "JP-05": 127,
+    "JP-06": 187,
+    "JP-07": 457,
+    "JP-08": 649,
+    "JP-09": 483,
+    "JP-10": 494,
+    "JP-11": 1274,
+    "JP-12": 1196,
+    "JP-13": 2943,
+    "JP-14": 1540,
+    "JP-15": 430,
+    "JP-16": 139,
+    "JP-17": 139,
+    "JP-18": 73,
+    "JP-19": 209,
+    "JP-20": 452,
+    "JP-21": 194,
+    "JP-22": 763,
+    "JP-23": 1070,
+    "JP-24": 178,
+    "JP-25": 221,
+    "JP-26": 351,
+    "JP-27": 1317,
+    "JP-28": 694,
+    "JP-29": 137,
+    "JP-30": 87,
+    "JP-31": 63,
+    "JP-32": 74,
+    "JP-33": 320,
+    "JP-34": 595,
+    "JP-35": 313,
+    "JP-36": 83,
+    "JP-37": 123,
+    "JP-38": 141,
+    "JP-39": 52,
+    "JP-40": 1061,
+    "JP-41": 193,
+    "JP-42": 210,
+    "JP-43": 386,
+    "JP-44": 190,
+    "JP-45": 209,
+    "JP-46": 214,
+    "JP-47": 211
+   }
+  },
+  "lawson": {
+   "total": 14697,
+   "au": "2026-02-28",
+   "source": "https://www.lawson.co.jp/company/corporate/data/sales/",
+   "fichier": "www.lawson.co.jp_company_corporate_data_sales_.html (« 【2026年2月末現在】 », « 全国 計 14,697 » ; groupe = ローソン, ナチュラルローソン, ローソンストア100)",
+   "par_prefecture": {
+    "JP-01": 730,
+    "JP-02": 279,
+    "JP-03": 180,
+    "JP-04": 264,
+    "JP-05": 180,
+    "JP-06": 106,
+    "JP-07": 166,
+    "JP-08": 214,
+    "JP-09": 197,
+    "JP-10": 234,
+    "JP-11": 683,
+    "JP-12": 589,
+    "JP-13": 1639,
+    "JP-14": 1067,
+    "JP-15": 226,
+    "JP-16": 171,
+    "JP-17": 105,
+    "JP-18": 109,
+    "JP-19": 135,
+    "JP-20": 173,
+    "JP-21": 175,
+    "JP-22": 280,
+    "JP-23": 707,
+    "JP-24": 142,
+    "JP-25": 149,
+    "JP-26": 327,
+    "JP-27": 1200,
+    "JP-28": 692,
+    "JP-29": 139,
+    "JP-30": 156,
+    "JP-31": 135,
+    "JP-32": 137,
+    "JP-33": 248,
+    "JP-34": 315,
+    "JP-35": 135,
+    "JP-36": 135,
+    "JP-37": 134,
+    "JP-38": 209,
+    "JP-39": 138,
+    "JP-40": 535,
+    "JP-41": 78,
+    "JP-42": 130,
+    "JP-43": 169,
+    "JP-44": 203,
+    "JP-45": 111,
+    "JP-46": 202,
+    "JP-47": 269
+   }
+  },
+  "bureaux-de-poste": {
+   "total": 23252,
+   "direct": 19912,
+   "simple": 3340,
+   "fermes_temporairement": 858,
+   "au": "2026-09-30",
+   "source": "https://www.post.japanpost.jp/notification/storeinformation/index02.html",
+   "fichier": "japanpost/202609.xlsx (郵便局局数表, ２０２６年９月３０日時点 ; « 営業中 » : 直営の郵便局 + 分室, 簡易郵便局)",
+   "par_prefecture": {
+    "JP-01": {
+     "direct": 1196,
+     "simple": 234,
+     "ouverts": 1430,
+     "fermes": 50
+    },
+    "JP-02": {
+     "direct": 265,
+     "simple": 72,
+     "ouverts": 337,
+     "fermes": 22
+    },
+    "JP-03": {
+     "direct": 303,
+     "simple": 96,
+     "ouverts": 399,
+     "fermes": 30
+    },
+    "JP-04": {
+     "direct": 350,
+     "simple": 66,
+     "ouverts": 416,
+     "fermes": 35
+    },
+    "JP-05": {
+     "direct": 273,
+     "simple": 101,
+     "ouverts": 374,
+     "fermes": 23
+    },
+    "JP-06": {
+     "direct": 286,
+     "simple": 97,
+     "ouverts": 383,
+     "fermes": 11
+    },
+    "JP-07": {
+     "direct": 416,
+     "simple": 88,
+     "ouverts": 504,
+     "fermes": 32
+    },
+    "JP-08": {
+     "direct": 463,
+     "simple": 36,
+     "ouverts": 499,
+     "fermes": 12
+    },
+    "JP-09": {
+     "direct": 310,
+     "simple": 34,
+     "ouverts": 344,
+     "fermes": 9
+    },
+    "JP-10": {
+     "direct": 301,
+     "simple": 29,
+     "ouverts": 330,
+     "fermes": 9
+    },
+    "JP-11": {
+     "direct": 624,
+     "simple": 14,
+     "ouverts": 638,
+     "fermes": 4
+    },
+    "JP-12": {
+     "direct": 675,
+     "simple": 25,
+     "ouverts": 700,
+     "fermes": 19
+    },
+    "JP-14": {
+     "direct": 742,
+     "simple": 10,
+     "ouverts": 752,
+     "fermes": 14
+    },
+    "JP-19": {
+     "direct": 199,
+     "simple": 55,
+     "ouverts": 254,
+     "fermes": 5
+    },
+    "JP-13": {
+     "direct": 1445,
+     "simple": 3,
+     "ouverts": 1448,
+     "fermes": 54
+    },
+    "JP-15": {
+     "direct": 532,
+     "simple": 110,
+     "ouverts": 642,
+     "fermes": 28
+    },
+    "JP-20": {
+     "direct": 440,
+     "simple": 172,
+     "ouverts": 612,
+     "fermes": 26
+    },
+    "JP-16": {
+     "direct": 206,
+     "simple": 62,
+     "ouverts": 268,
+     "fermes": 15
+    },
+    "JP-17": {
+     "direct": 237,
+     "simple": 53,
+     "ouverts": 290,
+     "fermes": 30
+    },
+    "JP-18": {
+     "direct": 201,
+     "simple": 22,
+     "ouverts": 223,
+     "fermes": 9
+    },
+    "JP-21": {
+     "direct": 352,
+     "simple": 75,
+     "ouverts": 427,
+     "fermes": 17
+    },
+    "JP-22": {
+     "direct": 480,
+     "simple": 68,
+     "ouverts": 548,
+     "fermes": 25
+    },
+    "JP-23": {
+     "direct": 838,
+     "simple": 57,
+     "ouverts": 895,
+     "fermes": 17
+    },
+    "JP-24": {
+     "direct": 372,
+     "simple": 60,
+     "ouverts": 432,
+     "fermes": 15
+    },
+    "JP-25": {
+     "direct": 230,
+     "simple": 26,
+     "ouverts": 256,
+     "fermes": 4
+    },
+    "JP-26": {
+     "direct": 439,
+     "simple": 29,
+     "ouverts": 468,
+     "fermes": 6
+    },
+    "JP-27": {
+     "direct": 1073,
+     "simple": 18,
+     "ouverts": 1091,
+     "fermes": 16
+    },
+    "JP-28": {
+     "direct": 833,
+     "simple": 117,
+     "ouverts": 950,
+     "fermes": 8
+    },
+    "JP-29": {
+     "direct": 242,
+     "simple": 67,
+     "ouverts": 309,
+     "fermes": 12
+    },
+    "JP-30": {
+     "direct": 262,
+     "simple": 44,
+     "ouverts": 306,
+     "fermes": 11
+    },
+    "JP-31": {
+     "direct": 147,
+     "simple": 78,
+     "ouverts": 225,
+     "fermes": 16
+    },
+    "JP-32": {
+     "direct": 257,
+     "simple": 92,
+     "ouverts": 349,
+     "fermes": 19
+    },
+    "JP-33": {
+     "direct": 417,
+     "simple": 81,
+     "ouverts": 498,
+     "fermes": 22
+    },
+    "JP-34": {
+     "direct": 578,
+     "simple": 94,
+     "ouverts": 672,
+     "fermes": 21
+    },
+    "JP-35": {
+     "direct": 341,
+     "simple": 48,
+     "ouverts": 389,
+     "fermes": 14
+    },
+    "JP-36": {
+     "direct": 200,
+     "simple": 21,
+     "ouverts": 221,
+     "fermes": 10
+    },
+    "JP-37": {
+     "direct": 186,
+     "simple": 25,
+     "ouverts": 211,
+     "fermes": 5
+    },
+    "JP-38": {
+     "direct": 316,
+     "simple": 54,
+     "ouverts": 370,
+     "fermes": 20
+    },
+    "JP-39": {
+     "direct": 225,
+     "simple": 74,
+     "ouverts": 299,
+     "fermes": 17
+    },
+    "JP-40": {
+     "direct": 709,
+     "simple": 81,
+     "ouverts": 790,
+     "fermes": 17
+    },
+    "JP-41": {
+     "direct": 166,
+     "simple": 32,
+     "ouverts": 198,
+     "fermes": 7
+    },
+    "JP-42": {
+     "direct": 306,
+     "simple": 115,
+     "ouverts": 421,
+     "fermes": 20
+    },
+    "JP-43": {
+     "direct": 380,
+     "simple": 157,
+     "ouverts": 537,
+     "fermes": 29
+    },
+    "JP-44": {
+     "direct": 300,
+     "simple": 88,
+     "ouverts": 388,
+     "fermes": 11
+    },
+    "JP-45": {
+     "direct": 195,
+     "simple": 90,
+     "ouverts": 285,
+     "fermes": 21
+    },
+    "JP-46": {
+     "direct": 429,
+     "simple": 249,
+     "ouverts": 678,
+     "fermes": 37
+    },
+    "JP-47": {
+     "direct": 175,
+     "simple": 21,
+     "ouverts": 196,
+     "fermes": 4
+    }
+   }
+  }
+ },
+ "distributeurs": {
+  "seven-bank": {
+   "total": 28000,
+   "plus_de": true,
+   "source": "https://www.sevenbank.co.jp/intlcard/card2.html",
+   "lu_le": "2026-10-16",
+   "note": "faits-preparer.md § 7 (« Plus de 28 000 »)"
+  },
+  "aeon-bank": {
+   "total": 6500,
+   "plus_de": true,
+   "source": "https://www.aeonbank.co.jp/atm/en/",
+   "lu_le": "2026-10-16",
+   "note": "faits-preparer.md § 7 (« plus de 6 500 distributeurs »)"
+  },
+  "japan-post-bank": {
+   "total": null,
+   "note": "aucun total officiel récent trouvé le 2026-10-31 (le dernier par préfecture date de 2013 : 26 669 distributeurs, 19 951 bureaux bancaires) ; communiqué du 2026-10-06 : environ 5 400 distributeurs dans les FamilyMart, fermés progressivement à partir de janvier 2027 sur 3 ans environ",
+   "source": "https://www.jp-bank.japanpost.jp/aboutus/press/2026/pdf/pr26100601.pdf"
+  },
+  "lawson-bank": {
+   "total": null,
+   "note": "aucun total officiel daté trouvé le 2026-10-31 (la presse cite « plus de 14 000 » sans date) ; comparaison faite aux magasins Lawson"
+  }
+ }
+}
